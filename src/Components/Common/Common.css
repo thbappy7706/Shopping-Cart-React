@@ -1,0 +1,10 @@
+.common
+{
+display: flex;
+}
+
+.brand-container
+{
+    border-right: 1px solid LightGray;
+    width:70%
+}
